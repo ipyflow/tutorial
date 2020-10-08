@@ -31,3 +31,4 @@ Tutorial
 The tutorial is presented as a set of interactive notebooks.
 1. [Overview](/notebooks/nbsafety-overview.ipynb)
 2. [Exercises](/notebooks/nbsafety-exercise.ipynb)
+3. <a id="raw-url" href="https://raw.githubusercontent.com/nbsafety-project/tutorial/master/notebooks/nbsafety-overview">Download FILE</a>
