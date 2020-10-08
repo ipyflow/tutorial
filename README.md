@@ -29,6 +29,7 @@ Tutorial
 --------
 
 The tutorial is presented as a set of interactive notebooks.
+Please download and open each of the following notebooks, and follow
+the instructions contained within.
 1. [Overview](/notebooks/nbsafety-overview.ipynb)
 2. [Exercises](/notebooks/nbsafety-exercise.ipynb)
-3. <a id="raw-url" href="https://raw.githubusercontent.com/nbsafety-project/tutorial/master/notebooks/nbsafety-overview.ipynb">Download FILE</a>

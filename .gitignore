@@ -1,0 +1,12 @@
+**/.DS_Store
+**/.vscode
+**/__pycache__
+**/.mypy_cache
+**/.ipynb_checkpoints
+*.bundle.*
+*.tsbuildinfo
+*.egg-info
+*.pyc
+*.ipynb
+!**/notebooks/*.ipynb
+**/[uU]ntitled*
