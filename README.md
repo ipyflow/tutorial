@@ -12,6 +12,11 @@ pip install jupyterlab  # if not already installed
 jupyter labextension install jupyterlab-nbsafety  # optional but highly recommended
 ```
 
+If you are in a hurry, you can copy+paste the following into a terminal:
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/nbsafety-project/tutorial/master/setup.sh)"
+```
+
 
 Running
 -------
@@ -29,7 +34,7 @@ Tutorial
 --------
 
 The tutorial is presented as a set of interactive notebooks.
-Please download and open each of the following notebooks, and follow
-the instructions contained within.
+Please download and open each of the following notebooks
+(or clone this repo), and follow the instructions contained within.
 1. [Overview](/notebooks/nbsafety-overview.ipynb)
 2. [Exercises](/notebooks/nbsafety-exercise.ipynb)
