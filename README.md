@@ -1,6 +1,6 @@
 # NBSafety Tutorial
 
-The tutorial is presented as a set of interactive notebooks.
+The NBSafety tutorial is presented as a set of interactive notebooks.
 Please download and open each of the following notebooks
 (or clone this repo), and follow the instructions contained within.
 1. [Overview](/notebooks/nbsafety-overview.ipynb)
