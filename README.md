@@ -1,4 +1,12 @@
-# nbsafety getting started
+# NBSafety Tutorial
+
+The tutorial is presented as a set of interactive notebooks.
+Please download and open each of the following notebooks
+(or clone this repo), and follow the instructions contained within.
+1. [Overview](/notebooks/nbsafety-overview.ipynb)
+2. [Exercises](/notebooks/nbsafety-exercise.ipynb)
+
+See below for brief installation and usage instructions.
 
 Install
 -------
@@ -27,13 +35,3 @@ of available kernels in the Launcher tab.
 Jupyter Notebook Entrypoint:     |  Jupyter Lab Entrypoint:
 :-------------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/nbsafety-project/nbsafety/master/img/nbsafety-notebook.png) | ![](https://raw.githubusercontent.com/nbsafety-project/nbsafety/master/img/nbsafety-lab.png)
-
-
-Tutorial
---------
-
-The tutorial is presented as a set of interactive notebooks.
-Please download and open each of the following notebooks
-(or clone this repo), and follow the instructions contained within.
-1. [Overview](/notebooks/nbsafety-overview.ipynb)
-2. [Exercises](/notebooks/nbsafety-exercise.ipynb)
