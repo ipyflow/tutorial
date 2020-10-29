@@ -35,3 +35,9 @@ of available kernels in the Launcher tab.
 Jupyter Notebook Entrypoint:     |  Jupyter Lab Entrypoint:
 :-------------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/nbsafety-project/nbsafety/master/img/nbsafety-notebook.png) | ![](https://raw.githubusercontent.com/nbsafety-project/nbsafety/master/img/nbsafety-lab.png)
+
+Survey
+------
+Coming from RISE Camp? Please fill out this anonymous survey to
+help us improve NBSafety!
+[[Link to survey]](https://docs.google.com/forms/d/1fCUg_VdZmizEqFnZCF68AhteoruV4tOUmINN4sd3xcA)
