@@ -14,11 +14,6 @@ Install
 pip install nbsafety
 ```
 
-If using JupyterLab, we highly recommend installing the companion extension:
-```bash
-jupyter labextension install jupyterlab-nbsafety
-```
-
 If you are in a hurry, you can copy+paste the following into a terminal:
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/nbsafety-project/tutorial/master/setup.sh)"
