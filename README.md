@@ -14,12 +14,6 @@ Install
 pip install nbsafety
 ```
 
-If you are in a hurry, you can copy+paste the following into a terminal:
-```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/nbsafety-project/tutorial/master/setup.sh)"
-```
-
-
 Running
 -------
 To run an `nbsafety` kernel, select "Python 3
